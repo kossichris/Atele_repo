@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8d2b776-3657-49f7-b7cd-64540b253897" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Models/Client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Commercial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Planning_rdv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Rapport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Requetes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Responsable_commercial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/User.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/ClientLogic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_flask.db" beforeDir="false" afterPath="$PROJECT_DIR$/db_flask.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrate.py" beforeDir="false" afterPath="$PROJECT_DIR$/migrate.py" afterDir="false" />
-    </list>
+    <list default="true" id="c8d2b776-3657-49f7-b7cd-64540b253897" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +39,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="py" value="1141" />
+          <entry key="py" value="1144" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="1141" />
+          <entry key="Python" value="1144" />
         </counts>
       </usages-collector>
     </session>
@@ -91,22 +77,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/ClientLogic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="86" column="42" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/migrate.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -118,22 +92,9 @@
         <entry file="file://$PROJECT_DIR$/Model.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Models/Client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-                <marker date="1540594694368" expanded="true" signature="279:423" ph="..." />
               </folding>
             </state>
           </provider>
@@ -168,11 +129,6 @@
               <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Models/Requetes.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -214,7 +170,6 @@
         <option value="$PROJECT_DIR$/resources/hello.py" />
         <option value="$PROJECT_DIR$/run.py" />
         <option value="$PROJECT_DIR$/resources/category.py" />
-        <option value="$PROJECT_DIR$/Model.py" />
         <option value="$PROJECT_DIR$/resources/Category.py" />
         <option value="$PROJECT_DIR$/resources/Comment.py" />
         <option value="$PROJECT_DIR$/Models/commercial.py" />
@@ -228,6 +183,7 @@
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/migrate.py" />
         <option value="$PROJECT_DIR$/Models/Client.py" />
+        <option value="$PROJECT_DIR$/Model.py" />
       </list>
     </option>
   </component>
@@ -249,11 +205,6 @@
             <path>
               <item name="flask_apis" type="b2602c69:ProjectViewProjectNode" />
               <item name="flask_apis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flask_apis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flask_apis" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flask_apis" type="b2602c69:ProjectViewProjectNode" />
@@ -305,7 +256,7 @@
     <frame x="32" y="-11" width="1335" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16641222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16641222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -316,7 +267,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.61984736" visible="true" weight="0.25310558" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.61984736" visible="true" weight="0.25310558" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38015267" side_tool="true" visible="true" weight="0.25310558" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -426,7 +377,7 @@
     <entry file="file://$PROJECT_DIR$/migrate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
@@ -460,7 +411,6 @@
           <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
-            <marker date="1540594694368" expanded="true" signature="279:423" ph="..." />
           </folding>
         </state>
       </provider>
@@ -478,7 +428,7 @@
     <entry file="file://$PROJECT_DIR$/Model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
